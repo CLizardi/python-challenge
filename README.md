@@ -1,4 +1,4 @@
-# Python Challenge
+# Python Challenge - PyBank and PyPoll
 ![revenue-per-lead](https://user-images.githubusercontent.com/52866379/212560441-12530315-ecda-4000-a0c6-82dc97d4b041.png)
 
 # Introduction
